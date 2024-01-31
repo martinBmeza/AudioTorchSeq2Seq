@@ -1,0 +1,27 @@
+# Project files
+*.vscode
+*.pth.tar
+
+# Python
+*__pycache__*
+*.ipynb_checkpoints*
+*.npy
+*.pyc
+
+# vim
+*.swp
+*.swo
+
+# Aux files
+*.log
+dev_notes
+
+# keys/tokens
+keys.py
+
+
+# but...
+#!
+
+
+
